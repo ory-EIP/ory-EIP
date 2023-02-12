@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jeremy before called ory
+- 👋 Hi, I’m Ory
 - 👀 I’m interested in Data, Backend, ML
-- 🌱 I’m currently learning Vuejs, javascript, python
+- 🌱 I’m currently learning Vuejs, javascript, python, Docker, deploy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
